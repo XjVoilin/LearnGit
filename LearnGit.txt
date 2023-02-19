@@ -5,3 +5,4 @@ zhoumo bu nalai xuexi nalai ganshenme
 git tracks change
 git change to remote
 change in branch resolve conflict
+test merge info
