@@ -6,3 +6,4 @@ git tracks change
 git change to remote
 change in branch resolve conflict
 test merge info
+test merge no fast forward
