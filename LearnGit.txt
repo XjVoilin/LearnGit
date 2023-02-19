@@ -4,3 +4,4 @@ Git is a fress sofeware
 zhoumo bu nalai xuexi nalai ganshenme
 git tracks change
 git change to remote
+change in branch dev 
