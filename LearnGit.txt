@@ -1,2 +1,2 @@
 git is on version contorl
-Git is fress sofeware
+Git is a fress sofeware
